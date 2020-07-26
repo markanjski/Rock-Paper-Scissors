@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-My solution is avaiable at [hoho](blabla)
+[Here](https://markanjski.github.io/Rock-Paper-Scissors/) you can see my Rock-Paper-Scissors solution.
