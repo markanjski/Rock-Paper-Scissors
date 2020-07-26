@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-My solution is avaiable at [ho ho](bla bla)
+My solution is avaiable at [hoho](blabla)
